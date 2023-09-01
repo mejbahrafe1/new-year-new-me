@@ -44,3 +44,31 @@
 
 
 }
+
+.my-failure-section {
+
+    width: 1130px;
+    margin: auto;
+    margin-top: 140px;
+}
+
+.my-failure-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 130px;
+}
+
+.item-title {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+.item-discription {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
